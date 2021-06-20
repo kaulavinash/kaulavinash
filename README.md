@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaulavinash
-- 👀 I’m interested in tech
+- 👀 I’m interested all tech
 - 🌱 I’m currently learning GitOps, ArgoCD, Kubernetes
 - 💞️ I’m looking to collaborate on GitOps
 - 📫 How to reach me kaulavinash@gmail.com
